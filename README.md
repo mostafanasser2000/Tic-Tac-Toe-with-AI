@@ -1,4 +1,9 @@
 # Tic-Tac-Toe-with-AI
+## Preview
+
+
+https://user-images.githubusercontent.com/67506662/196250519-c23c1f34-df92-4bd3-8364-22f17f3126ff.mp4
+
 
 ## Description
 - An interactive tic tac toe using AI.<br>
