@@ -109,10 +109,10 @@ def check_for_winner(board):
 
 
 def start_game():
-    command = input("Input command: ")
+    command = input("Enter command: ")
     while re.match("^(exit)|(start\s+(user|easy|medium|hard)\s+(user|easy|medium|hard))$", command) is None:
         print("Bad parameters!")
-        command = input("Input command: ")
+        command = input("Enter command: ")
     if command == 'exit':
         exit(0)
     return [command.split()[1], command.split()[2]]  # return the type of two user
