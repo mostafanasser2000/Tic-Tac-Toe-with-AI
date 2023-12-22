@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-with-AI
-A simple  implementation of the Tic-Tac-Toe game in Python. This console-based [project](https://hyperskill.org/projects/82?track=2) is project from [Python Core](https://hyperskill.org/tracks/2/projects) Track from JetBrains Academy
+A simple  implementation of the Tic-Tac-Toe game in Python. This console-based [project](https://hyperskill.org/projects/82?track=2) is project from [Python Core](https://hyperskill.org/tracks/2/projects) Track from **JetBrains Academy**
 
 ## Preview
 
@@ -22,9 +22,9 @@ https://github.com/mostafanasser2000/Tic-Tac-Toe-with-AI/assets/67506662/5666eec
   - ***hard*** : the AI use [minimax](https://en.wikipedia.org/wiki/Minimax) algorithm.
 
 ## How to play
-1- Clone the repository to your local machine.
-2- Run the following command
+1. Clone the repository to your local machine.
+2. Run the following command
 ``` shell 
  python3 tictactoe.py
 ```
-3- Follow the preview instructions to make your moves and enjoy the game!
+3. Follow the preview instructions to make your moves and enjoy the game!
