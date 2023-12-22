@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-with-AI
-A simple  implementation of the Tic-Tac-Toe game in Python. This console-based [project]('https://hyperskill.org/projects/82?track=2') is project from [Python Core]('https://hyperskill.org/tracks/2/projects') Track from JetBrains Academy
+A simple  implementation of the Tic-Tac-Toe game in Python. This console-based [project](https://hyperskill.org/projects/82?track=2) is project from [Python Core](https://hyperskill.org/tracks/2/projects) Track from JetBrains Academy
 
 ## Preview
 
