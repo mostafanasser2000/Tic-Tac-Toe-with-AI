@@ -2,7 +2,10 @@
 ## Preview
 
 
-https://user-images.githubusercontent.com/67506662/196250519-c23c1f34-df92-4bd3-8364-22f17f3126ff.mp4
+
+https://github.com/mostafanasser2000/Tic-Tac-Toe-with-AI/assets/67506662/5666eec4-039a-4696-bbe6-75d2d14ef248
+
+
 
 
 ## Description
